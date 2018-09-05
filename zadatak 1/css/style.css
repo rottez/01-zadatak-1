@@ -1,0 +1,20 @@
+
+table, th, td, caption{
+  border: 1px solid black;
+}
+caption{
+  font-weight: bold;
+  background: #d3d3d3;
+  text-transform: uppercase;
+  border-bottom: 0;
+}
+.raspored-dani {
+  background: #87CEFA;
+  text-transform: uppercase;
+}
+.redni-broj {
+  font-weight: bold;
+}
+td {
+  text-transform: capitalize;
+}
